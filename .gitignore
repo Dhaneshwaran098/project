@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database files
+database.db
+leave.db
+*.sqlite3
+
+# Upload folder
+uploads/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
